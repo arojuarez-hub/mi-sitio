@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/bienvenidos-a-hugo/</loc>
+    <loc>https://arojuarez-hub.github.io/mi-sitio/posts/bienvenidos-a-hugo/</loc>
     <lastmod>2023-08-25T18:36:12-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://arojuarez-hub.github.io/mi-sitio/</loc>
     <lastmod>2023-08-25T18:36:12-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://arojuarez-hub.github.io/mi-sitio/posts/</loc>
     <lastmod>2023-08-25T18:36:12-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/primer-post/</loc>
+    <loc>https://arojuarez-hub.github.io/mi-sitio/posts/primer-post/</loc>
     <lastmod>2023-08-25T18:35:32-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/contacto/</loc>
+    <loc>https://arojuarez-hub.github.io/mi-sitio/contacto/</loc>
     <lastmod>2023-08-25T18:22:47-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://arojuarez-hub.github.io/mi-sitio/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://arojuarez-hub.github.io/mi-sitio/tags/</loc>
   </url>
 </urlset>
