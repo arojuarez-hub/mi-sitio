@@ -6,7 +6,17 @@
     <description>Recent content in Posts on My Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 25 Aug 2023 18:36:12 -0600</lastBuildDate><atom:link href="https://arojuarez-hub.github.io/mi-sitio/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Aug 2023 15:15:56 -0600</lastBuildDate><atom:link href="https://arojuarez-hub.github.io/mi-sitio/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prueba Nueva</title>
+      <link>https://arojuarez-hub.github.io/mi-sitio/posts/prueba-nueva/</link>
+      <pubDate>Mon, 28 Aug 2023 15:15:56 -0600</pubDate>
+      
+      <guid>https://arojuarez-hub.github.io/mi-sitio/posts/prueba-nueva/</guid>
+      <description>Personalmente creó que es un resultado estupendo!!
+¿Qué les parece?</description>
+    </item>
+    
     <item>
       <title>Bienvenidos a Hugo</title>
       <link>https://arojuarez-hub.github.io/mi-sitio/posts/bienvenidos-a-hugo/</link>
